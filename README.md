@@ -159,7 +159,11 @@ app.get('/users', (req, res) => {
 
 📚 *Com essas ferramentas, você poderá criar APIs bem documentadas, interativas e profissionais, facilitando o desenvolvimento e a integração com outros serviços.*
 
-### VEJA UMA IMPLEMENTAÇÃO PASSO A PASSO EM: 
+### VEJA UMA IMPLEMENTAÇÃO PASSO A PASSO COM SWAGGER-UI PURO: 
 
-* [Implementação passo a passo](https://github.com/DaviKandido/Documentacao-Swagger-Express/tree/main/Swagger_with_express)
+* [Implementação passo a passo](https://github.com/DaviKandido/Documentacao-Swagger-Express/tree/main/Swagger_with_swagger-ui)
+
+### VEJA UMA IMPLEMENTAÇÃO PASSO A PASSO COM SWAGGER-UI E JSDOC: 
+
+* [Implementação passo a passo - jSDOC](https://github.com/DaviKandido/Documentacao-Swagger-Express/tree/main/Swagger_with_Jsdoc)
 
